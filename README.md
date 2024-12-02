@@ -1,5 +1,6 @@
 # Explainability_on_IRIS
 * This is the repository for Group 1 experiment on the explainability by using LIME and SHAP
+* Group Member: YANG Xiaoran, LUAN Qifeng, DONG Yicheng, PENG Xiuya
 
 ## Experiment 1: Global Explainability by using SHAP
 * The explnation of SHAP shows the Global Explainability
